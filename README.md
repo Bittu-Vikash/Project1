@@ -1,3 +1,5 @@
+![Titanic EDA](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+
 <h1 align="center">🚢 Exploratory Data Analysis (EDA) of the Titanic Dataset</h1>
 
 ---
